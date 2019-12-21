@@ -108,10 +108,9 @@ public class test1 {
 		 * list.add("xia");
 		 * list.add("xua1");
 		 * list.add("hua2");
-		 * 
+		 * rrr
 		 * for(Object o:list){ System.out.println(o); }
 		 */
-
 
 
 		
